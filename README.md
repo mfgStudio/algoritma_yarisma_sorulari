@@ -1,4 +1,4 @@
-# algoritma_yarimalari_ieeeulusb
+# algoritma_yarismalari_ieeeulusb
 #Mehmet Faruk Gul
 #ieeeulusb 2019-2020 Cs Komitesi Baskani
 
