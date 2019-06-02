@@ -21,4 +21,4 @@ IEEE Uludag Universitesi Ogrenci kolunun Cs(Computer Society) Komitesinde yapmis
 
 >İkinci sorumuz da 256 ya kadar sınır koyduk. Örnek olarak 36 değerini girecek kullanıcı, bizde bunun 8 bitlik binary değerini ekrana yazdıracağız.
 
->Üçüncü soru da bir denklem verdik, bunu koda dökmesini istedik arkadaşlardan. Kullanıcıdan n değeri istedik, çıkan sonucu ekrana yazdırdılar.
+>Üçüncü soru da bir denklem verdik, bunu koda dökmesini istedik arkadaşlardan. Kullanıcıdan n değeri istedik, çıkan sonucu ekrana yazdırdılar. denklemi .jpg formatinda gorebilirsiniz(*n kismi var denklemin son kisminda, yarisma da orasini +n olarak sormustuk).
