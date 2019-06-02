@@ -1,0 +1,68 @@
+#include<stdio.h>
+
+int main()
+{
+int i;
+do
+{
+printf("Bir deger girin");
+scanf("%d", &i);
+}while(i>255);
+if(i>127)
+{
+    printf("1");
+    i=i-128;
+}
+else
+    printf("0");
+if(i>63)
+   {
+    printf("1");
+    i=i-64;
+}
+else
+    printf("0");
+if(i>31)
+{
+    printf("1");
+    i=i-32;
+}
+else
+    printf("0");
+if(i>15)
+{
+    printf("1");
+    i=i-16;
+}
+else
+    printf("0");
+if(i>7)
+{
+    printf("1");
+    i=i-8;
+}
+else
+    printf("0");
+if(i>3)
+{
+    printf("1");
+    i=i-4;
+}
+else
+    printf("0");
+if(i>1)
+{
+    printf("1");
+    i=i-2;
+}
+else
+    printf("0");
+if(i>0)
+{
+    printf("1");
+    i=i-1;
+}
+else
+    printf("0");
+getch();
+}

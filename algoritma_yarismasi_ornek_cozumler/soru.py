@@ -1,0 +1,44 @@
+a = input("256in altinda bir sayi giriniz")
+b = []
+if(a>=128):
+    b.append(1)
+    a-=128
+else:
+    b.append(0)
+if(a>=64):
+    b.append(1)
+    a-=64
+else:
+    b.append(0)
+if(a>=32):
+    b.append(1)
+    a-=32
+else:
+    b.append(0)
+if(a>=16):
+    b.append(1)
+    a-=16
+else:
+    b.append(0)
+if(a>=8):
+    b.append(1)
+    a-=8
+else:
+    b.append(0)
+if(a>=4):
+    b.append(1)
+    a-=4
+else:
+    b.append(0)
+if(a>=2):
+    b.append(1)
+    a-=2
+else:
+    b.append(0)
+if(a>=1):
+    b.append(1)
+    a-=1
+else:
+    b.append(0)
+
+print(b)
